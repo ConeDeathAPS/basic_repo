@@ -1,0 +1,14 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	background-color: grey;
+}
+h1, p {
+	font-family: sans-serif;
+	margin: 10px;
+	width: 625px;
+}
+img {
+	height: 415px;
+	width: 625px;
+}
