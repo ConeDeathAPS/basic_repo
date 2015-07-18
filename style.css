@@ -12,4 +12,5 @@ h1, p {
 img {
 	height: 415px;
 	width: 625px;
+	border: 2px dashed black;
 }
